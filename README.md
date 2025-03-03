@@ -5,5 +5,5 @@ I've been a graphic designer, researcher, fine dining pastry chef and an America
 ## What I Do  
 
 - **Building [Madison Marketing](https://github.com/madisonmarketing)** – an AI-powered marketing analytics platform  
-- **Full-stack development** – Kotlin, Ktor, React, Next.js  
+- **Full-stack development** – Kotlin, Python, Ktor, React, Next.js
 - **Performance marketing** – specializing in tech and entertainment industries
